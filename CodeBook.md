@@ -1,11 +1,12 @@
 Code Book
+=======================================
 
 Data Set Information:
 
 Number of Instances: 10299
 Number of Attributes: 561
 
-
+=======================================
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) 
 wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, 
@@ -22,6 +23,7 @@ filter with 0.3 Hz cutoff frequency was used. From each window, a vector of feat
 variables from the time and frequency domain. 
 
 The dataset includes the following files:
+==========================================
 
 'README.txt'
 
@@ -41,6 +43,7 @@ The dataset includes the following files:
 
 
 The following files are available for the train and test data.
+===============================================================
 
 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. 
 Its range is from 1 to 30.
