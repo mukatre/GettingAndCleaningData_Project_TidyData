@@ -7,7 +7,10 @@ Source run_analysis.R after you've downloaded the Samsung Data and set the "UCI 
 
 The code outputs a txt file called tidyData.txt.
 
-reshape2 and data.table packages are installed if they areas 
+reshape2 and data.table packages are installed if they aren't already.
+
+
+
 =======================================
 
 
